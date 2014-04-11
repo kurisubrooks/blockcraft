@@ -1,0 +1,34 @@
+Lang Changes:
+
+Items:
+
+Flint & Steel - Lighter
+Rotten Flesh - Zombie Brain
+Lead - Leash
+Melon - Watermelon
+Melon Seeds - Watermelon Seeds
+Glistering Melon - Golden Watermelon
+Bottle o' Enchanting - XP Bottle
+Seeds - Wheat Seeds
+Nether Star - Infused Crystal
+Fire Charge - Fire Ball
+Poisonous Potato - Infested Potato
+Ink Sac - Ink Vile
+Cooked Chicken - Chicken Drumstick
+Raw Porkchop - Raw Bacon
+Cooked Porkchop - Cooked Bacon
+Mushroom Stew - Mushroom Soup
+
+Blocks:
+
+Sponge - '?' Block
+Web - Spider Web
+Melon - Watermelon
+Daylight Sensor - Daylight Detector
+Stone Stairs - Cobblestone Stairs
+
+Entity:
+
+Experience Orb - XP Orb
+Wither Boss - BOSS: Wither
+Ender Dragon - BOSS: Ender Dragon

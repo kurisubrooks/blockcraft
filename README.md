@@ -1,4 +1,5 @@
 # BlockCraft
+###### [deprecated]
 
 BlockCraft is a Beautiful, Simple Resource Pack for Minecraft.
 

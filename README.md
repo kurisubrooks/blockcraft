@@ -1,7 +1,7 @@
 # BlockCraft
-###### [deprecated]
-
 BlockCraft is a Beautiful, Simple Resource Pack for Minecraft.
+
+Feel free to work on textures and submit a pull request~
 
 ## License
 

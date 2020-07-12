@@ -1,8 +1,9 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "blocks/furnace_front_off",
-        "1": "blocks/furnace_side"
+        "particle": "block/furnace_side",
+        "0": "block/furnace_front",
+        "1": "block/furnace_side"
     },
     "elements": [
         {
